@@ -1,0 +1,3 @@
+Hello from functions.c!
+The result of adding 12 and 2 is: 14
+Hello word

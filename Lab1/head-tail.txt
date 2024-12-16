@@ -1,0 +1,8 @@
+output
+ls.txt
+..
+.
+output
+ls.txt
+..
+.
